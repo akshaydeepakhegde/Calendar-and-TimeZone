@@ -6,7 +6,7 @@ Calendar-and-TimeZone
 2. Calculate number of time zones between any 2 time zones.
 
 # Design
-Please refer to Readme.docx for all the information about the design.
+Please refer to Design.docx for all the information about the design.
 
 # Summary of Classes
 file:///C:/Users/aksha/eclipse-workspace/assignment/Cal/doc/com/randstand/cal/package-summary.html
