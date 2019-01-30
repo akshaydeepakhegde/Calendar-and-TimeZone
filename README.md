@@ -8,7 +8,7 @@ Calendar-and-TimeZone
 # Design and Summary 
 Please refer to Design.docx for all the information about the design.
 
-file:///C:/Users/aksha/eclipse-workspace/assignment/Cal/doc/com/randstand/cal/package-summary.html
+link to javadoc - file:///C:/Users/aksha/eclipse-workspace/assignment/Cal/doc/com/randstand/cal/package-summary.html
 
 # To run the application:
 
